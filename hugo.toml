@@ -3,14 +3,14 @@ languageCode = 'en-us'
 theme = 'hugo-goa'
 
 author = 'Ivan Ho'
-title = 'Ivan Ho'
+title = "Hivan, it's.... Ivan!"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 [params]
-author = 'Ivan Ho'
+author = "Ivan Ho"
 intro = 'compilers ⋅ graphics ⋅ game dev ⋅ education'
 description = 'Here to help you help us help us all!'
 authorimage = "avatar.svg"
@@ -27,3 +27,16 @@ poweredby = true
 highlightjs = true
 socialmarkup = true
 toc = true
+
+
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 100
+url = "about"
+
+[[menu.main]]
+name = "now"
+weight = 200
+identifier = "now.md"
+url = "now"
