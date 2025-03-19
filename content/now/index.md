@@ -18,6 +18,6 @@ I'm looking into compiler optimizations for rendering pipelines. The machine lea
 
 ### spike: 2030
 
-Over the years, the software engineering curriculum has accrued plenty of cruft, and it waterboards students with a deluge of techniques both current and ancient that ends up vastly irrelevant to real-world work and drastically underequips students for their future roles in industry. I hope to drastically simplify the scope of SWE101, and the thesis is as follows: 
+Over the years, the software engineering curriculum has accrued plenty of cruft, and it waterboards students with a deluge of techniques both current and ancient that ends up vastly irrelevant to real-world work and drastically underequips students for their future roles in industry. I hope to simplify the scope of SWE101, reorganizing it under a singular [lens](https://schellgames.com/art-of-game-design): 
 
 > Software engineering is not a coding problem, it is a people problem.
