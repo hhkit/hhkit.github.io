@@ -10,7 +10,7 @@ want to know what i'm currently working on? that'll be over [here](/now)!
 
 ----
 
-Hello! I'm **Ivan Ho**, a first-year PhD at the **University of Cambridge** from **Singapore🇸🇬** supervised by [**Dr. Tobias Grosser**](https://grosser.science/). As an academic, I'm deeply passionate about computer science education and democratizing the secrets of our craft – which is why I've chosen a research specialization is in compilers and GPU optimizations. In 2024, I graduated with a **Master of Computing** from the **National University of Singapore**, having researched static analysis of GPU kernels under [**Dr. Chin Wei Ngan**](https://www.comp.nus.edu.sg/~chinwn/) and [**Dr. Manual Rigger**](https://nus-test.github.io/).
+Hello! I'm **Ivan Ho**, a first-year PhD at the **University of Cambridge** from **Singapore🇸🇬** supervised by [**Dr. Tobias Grosser**](https://grosser.science/). As an academic, I'm deeply passionate about computer science education and democratizing the secrets of our craft – which is why I've chosen a research specialization is in compilers and GPU optimizations. In 2024, I graduated with a **Master of Computing** from the **National University of Singapore**, having researched static analysis of GPU kernels under [**Dr. Chin Wei Ngan**](https://www.comp.nus.edu.sg/~chinwn/) and [**Dr. Manuel Rigger**](https://nus-test.github.io/).
 
 I do research in compilers targeting GPUs, optimizing your code so you can focus on solving the real problems. I hope to work towards an industry where engineers are empathetic rather than judgmental, where we encourage each other to learn and build tools to lift each other up. 
 
