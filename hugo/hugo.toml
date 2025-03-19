@@ -1,0 +1,25 @@
+baseURL = 'https://hhkit.dev/'
+languageCode = 'en-us'
+theme = 'hugo-goa'
+
+author = 'Ivan Ho'
+title = 'Ivan Ho'
+
+[params]
+author = 'Ivan Ho'
+intro = 'compilers ⋅ graphics ⋅ game dev ⋅ education'
+description = 'Here to help you help us help us all!'
+authorimage = "avatar.svg"
+dateformat = '2006/01/02'
+
+[params.social]
+github = "hhkit"
+linkedin = "hohkivan"
+email = "ivan.ho@cl.cam.ac.uk"
+
+[params.extra]
+copyright = "© 2025. Ivan Ho. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
