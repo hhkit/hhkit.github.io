@@ -16,6 +16,9 @@ description = 'Here to help you help us help us all!'
 authorimage = "avatar.svg"
 dateformat = '2006/01/02'
 
+[params.meta]
+favicon = false
+
 [params.social]
 github = "hhkit"
 linkedin = "hohkivan"
