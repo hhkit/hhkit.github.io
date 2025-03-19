@@ -3,7 +3,7 @@ languageCode = 'en-us'
 theme = 'hugo-goa'
 
 author = 'Ivan Ho'
-title = "Hivan, it's.... Ivan!"
+title = "Hivan, it's... IVaN!"
 
 [caches]
   [caches.images]
