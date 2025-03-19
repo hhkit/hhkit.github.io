@@ -11,7 +11,7 @@ title = "Hivan, it's.... Ivan!"
 
 [params]
 author = "Ivan Ho"
-intro = 'compilers ⋅ graphics ⋅ game dev ⋅ education'
+intro = 'compilers ⋅ graphics ⋅ gamedev ⋅ education'
 description = 'Here to help you help us help us all!'
 authorimage = "avatar.svg"
 dateformat = '2006/01/02'
