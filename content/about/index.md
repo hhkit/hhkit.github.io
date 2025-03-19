@@ -14,7 +14,7 @@ Hello! I'm **Ivan Ho**, a first-year PhD at the **University of Cambridge** from
 
 I do research in compilers targeting GPUs, optimizing your code so you can focus on solving the real problems. I hope to work towards an industry where engineers are empathetic rather than judgmental, where we encourage each other to learn and build tools to lift each other up. 
 
-That is to say, regardless of the prestige that my current institution may hold and bestow, the following should always hold true:
+That is to say, regardless of the prestige that my current institution may hold and bestow, I hope the following will always hold true for me:
 
 "*In the pursuit of great, we shouldn't fail to do good.*"
 – [Viktor, Arcane](https://www.goodreads.com/quotes/11136189-in-the-pursuit-of-great-we-failed-to-do-good)
