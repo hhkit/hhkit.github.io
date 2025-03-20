@@ -25,7 +25,7 @@ linkedin = "hohkivan"
 email = "ivan.ho@cl.cam.ac.uk"
 
 [params.extra]
-copyright = "© 2025. Ivan Ho. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2025. Ho Han Kit Ivan. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true
@@ -43,3 +43,10 @@ name = "now"
 weight = 200
 identifier = "now.md"
 url = "now"
+
+
+[[menu.main]]
+name = "games"
+weight = 300
+identifier = "games.md"
+url = "https://forcasualplayers.itch.io"
