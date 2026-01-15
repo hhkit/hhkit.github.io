@@ -8,11 +8,11 @@ showpagemeta = false
 
 if you were wondering what a [now](https://nownownow.com/about) page was, well, you should check it out and make one too.
 
-# currently: may 2025
+# currently: jan 2025
 
-I am working on a debugging tool for MLIR rewrites. RenderDoc has done amazing things for computer graphics, and there is no reason multi-level compilers should not have dedicated tooling for debugging. Hopefully, it will become something useful!
+Kunwar Grover and I have a talk coming up at [C4ML 2026](https://c4ml.org/), on how to write a compiler-optimizable attention kernel!
 
-### todo: fall 2025
+### todo: summer 2026
 
 I'm looking into compiler optimizations for rendering pipelines. The machine learning world has taken the field of "graphics card abuse" to its absolute limit, and there's no reason its rendering cousin shouldn't be able to leverage what they've done. Cooperative matrix and vector operations give shaders the ability to access the tensor cores that have somehow *hopped* ([heh](https://www.nvidia.com/en-gb/data-center/technologies/hopper-architecture/)) their way into GPUs these days -- opening the opportunity for new optimizations.
 
