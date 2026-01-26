@@ -8,7 +8,7 @@ showpagemeta = false
 
 if you were wondering what a [now](https://nownownow.com/about) page was, well, you should check it out and make one too.
 
-# currently: jan 2025
+# currently: jan 2026
 
 Kunwar Grover and I have a talk coming up at [C4ML 2026](https://c4ml.org/), on how to write a compiler-optimizable attention kernel!
 
